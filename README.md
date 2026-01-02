@@ -1,2 +1,2 @@
-# External-Plagiarism-Detection
-Traditional plagiarism detectors fail against sophisticated paraphrasing and generative AI, which can create content that bypasses keyword matching. This gap leads to undetected semantic plagiarism and AI-generated dishonesty, while also causing unfair accusations through false positives.
+# Authorship Verification Using Gen AI
+Developed an AI-driven system that analyzes writing patterns using generative models to determine whether a given text matches the claimed author.
